@@ -31,6 +31,8 @@ let sender = {
 
 ## twilio sendgrid
 
+https://app.sendgrid.com/settings/sender_auth/senders/new
+
 - you manually create single-sender verification.
     - the email address then needs to confirm being a new sender.
 
